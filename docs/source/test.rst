@@ -1,4 +1,4 @@
-Usage
+Test new section
 =====
 
 New section test
